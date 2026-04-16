@@ -1,3 +1,1 @@
-getgenv().SCRIPT_KEY = "KEYLESS"
-
-loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/1a2cc40e03c7068227d867444df5d243c29530a06fd6697be7f214307b1d03c6/download"))() 
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/195d1071ee63fbac050300e2155f573f.lua"))()
