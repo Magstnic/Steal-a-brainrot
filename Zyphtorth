@@ -1,1 +1,1 @@
-loadstring(Game:HttpGet("https://pastebin.com/raw/KbTa9LEs"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/irishhub-scriptzzz/Irish-hub-free-lagger/refs/heads/main/Irish%20Hub%20Free%20Lagger"))()
