@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mallu937/K7-DUEL/refs/heads/main/.lua"))()
